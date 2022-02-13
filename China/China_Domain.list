@@ -514,8 +514,6 @@
 .95522.cn
 .95522.com.cn
 .95522.net.cn
-.95559.com.cn
-.95559.sh.cn
 .95580.net
 .95588.com
 .95588.com.cn
@@ -912,6 +910,8 @@
 .api-aos-cnbj6.huami.com
 .api-mifit-cn.huami.com
 .api-mifit.huami.com
+.api.crisp.chat
+.api.cupid.qiyi.com
 .api.game.letvstore.com
 .apifabric.cn
 .apifabric.com.cn
@@ -1076,10 +1076,6 @@
 .ban-ma.cn
 .bangbang.com
 .bank-of-china.com
-.bankcomm.com
-.bankcomm.com.au
-.bankcomm.com.mo
-.bankcomm.com.tw
 .bankofchina.com
 .banmaaike.com
 .banmadayuwen.com
@@ -1102,8 +1098,6 @@
 .bazai.com
 .bbbcdns.com
 .bbf.org.cn
-.bbk.com
-.bbktel.com.cn
 .bbm0v.cn
 .bce-cdn.cn
 .bce-cdn.com
@@ -2237,6 +2231,7 @@
 .em0bu.cn
 .emas-poc.com
 .emerald.com
+.empornium.me
 .emsec.hk
 .emzexzfp.com
 .enet.com.cn
@@ -2323,7 +2318,6 @@
 .fdzzjs.com
 .fe-cdn.huami.com
 .fe-static.huami.com
-.feedsp.com
 .feelgood.cn
 .feiliao.com
 .feishu.cn
@@ -2397,7 +2391,6 @@
 .funshion.com
 .funshion.net
 .funshion.tv
-.funtouchos.com
 .fusion.design
 .fusionappl.com
 .futu5.com
@@ -2434,10 +2427,8 @@
 .gd12349.com.cn
 .gd165.com
 .gdb.com.cn
-.gdbbk.com
 .gdbnet.cn
 .gddc.com.cn
-.gdfgq.club
 .gdi5ap2ikn.com
 .gdsa.com
 .gdtel.com.cn
@@ -2866,6 +2857,7 @@
 .goodfeel.cn
 .goodluckcalendar.com
 .goodread.com
+.googletraveladservices.com
 .goproxy.cn
 .got001.com
 .got002.com
@@ -3202,6 +3194,7 @@
 .hwtelcloud.com
 .hwtrip.com
 .hxcdn.net
+.hz.netease.com
 .hzcnc.com
 .hzdtv.tv
 .hzman.net
@@ -3407,7 +3400,6 @@
 .iq.com
 .iqiyi.com
 .iqiyipic.com
-.iqoo.com
 .iqtianshanmw.com
 .ireader.com
 .ireader.com.cn
@@ -3586,8 +3578,6 @@
 .jhwan.com.cn
 .jiajuimg.com
 .jiangbing.cn
-.jianguopuzi.com
-.jianguoyun.com
 .jianhangcaifu.com
 .jianliao.com
 .jianshu.com
@@ -3667,8 +3657,6 @@
 .jtamac.com
 .jtwsm.cn
 .juangua.com
-.juchang.cn
-.juchang.com.cn
 .juejin.cn
 .juejin.im
 .juhuasuan.com
@@ -3828,13 +3816,6 @@
 .ksyunwaf.com
 .ktovztie.com
 .ktv.com
-.ku6.cn
-.ku6.com
-.ku6.com.cn
-.ku6.net
-.ku6cdn.com
-.ku6img.com
-.ku6vms.com
 .kuai666aa8e43gomqhzeg.com
 .kuai666e9rqs5wumk7at3.com
 .kuai666gki3osg54rx7a.com
@@ -4226,6 +4207,8 @@
 .micode.net
 .micro-game-client.com
 .microfountain.com
+.microsoft.com
+.microsoftonline.com
 .mifenglife.cn
 .mifenlife.cn
 .mifenlife.com
@@ -4361,6 +4344,8 @@
 .ms7caryw5i48t.com
 .msauth.net
 .msecnd.net
+.msg.video.qiyi.com
+.msg2.video.qiyi.com
 .mshare.cc
 .msocdn.com
 .mt22q4s3w5.com
@@ -4505,6 +4490,7 @@
 .nicaifu.net
 .nidiandaojia.com
 .nihaotv.net
+.nim-lang-cn.org
 .niuclass.net
 .njdiip.com
 .njibhu.com
@@ -4526,8 +4512,6 @@
 .ntes53.net
 .ntescdn.com
 .nuomi.com
-.nutstore.net
-.nutstorehq.com
 .nvidia.com
 .nvsgames.cn
 .nvsip.com
@@ -4735,6 +4719,7 @@
 .papocket.com
 .passivedns.cn
 .passthepopcorn.me
+.paypal.me
 .pc120.com
 .pddpic.com
 .pdeepmatrix.com
@@ -5126,6 +5111,7 @@
 .rxykamto.com
 .rzmoizmk.com
 .rzsuetrx.com
+.s-microsoft.com
 .s-reader.com
 .s-zone.com
 .s.zampdsp.com
@@ -5521,6 +5507,7 @@
 .staticdn.net
 .staticfile.org
 .steam-chat.com
+.steamcdn-a.akamaihd.net
 .steamcontent.com
 .steamgames.com
 .steampowered.com
@@ -6049,19 +6036,11 @@
 .vitamio.net
 .vitamio.org
 .vitamio.tv
-.vivo.cn
-.vivo.com
-.vivo.com.cn
-.vivo.xyz
-.vivoglobal.com
-.vivosjpt.com
-.vivotc.com
 .vk6oqcevmd1a.com
 .vkrtzzc.com
 .vmall-hw.com
 .vmall.com
 .vmallres.com
-.vmic.xyz
 .vmoso.cn
 .vmylan.com
 .vnet.cn
@@ -6076,7 +6055,6 @@
 .vplayer.net
 .vqskrzmq.com
 .vrbt.mobi
-.vsearch.club
 .vshabo.com
 .vshoucang.com
 .vsmquvds.com
@@ -6144,15 +6122,17 @@
 .wedcm.com
 .weibo.cn
 .weibo.com
+.weibo.com.cn
+.weibo.tv
 .weibocdn.com
 .weibopie.com
+.weiboums.com
 .weico.cc
 .weidian-inc.com
 .weidian.cc
 .weidian.cn
 .weidian.com
 .weidianfans.com
-.weiguan.com
 .weikan.cn
 .weimen.hu
 .weinews.cn
@@ -7057,12 +7037,21 @@
 analytics.strava.com
 api.iplay.163.com
 aqqmusic.tc.qq.com
+blzddist1-a.akamaihd.net
+cdn.angruo.com
 client.amplifi.com
+dl.google.com
 download.jetbrains.com
 file-igamecj.akamaized.net
 iadmat.nosdn.127.net
+images-cn.ssl-images-amazon.com
 ip.istatmenus.app
 mam.netease.com
 moo.qq.com
+mtalk.google.com
+netease.ugcvideoss.ourdvs.com
+officecdn-microsoft-com.akamaized.net
+safebrowsing.googleapis.com
 sms.imagetasks.com
+steamcommunity-a.akamaihd.net
 weizhiyundong.list
