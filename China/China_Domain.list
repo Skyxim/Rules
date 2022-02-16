@@ -514,6 +514,8 @@
 .95522.cn
 .95522.com.cn
 .95522.net.cn
+.95559.com.cn
+.95559.sh.cn
 .95580.net
 .95588.com
 .95588.com.cn
@@ -1076,6 +1078,10 @@
 .ban-ma.cn
 .bangbang.com
 .bank-of-china.com
+.bankcomm.com
+.bankcomm.com.au
+.bankcomm.com.mo
+.bankcomm.com.tw
 .bankofchina.com
 .banmaaike.com
 .banmadayuwen.com
@@ -1098,6 +1104,8 @@
 .bazai.com
 .bbbcdns.com
 .bbf.org.cn
+.bbk.com
+.bbktel.com.cn
 .bbm0v.cn
 .bce-cdn.cn
 .bce-cdn.com
@@ -2318,6 +2326,7 @@
 .fdzzjs.com
 .fe-cdn.huami.com
 .fe-static.huami.com
+.feedsp.com
 .feelgood.cn
 .feiliao.com
 .feishu.cn
@@ -2391,6 +2400,7 @@
 .funshion.com
 .funshion.net
 .funshion.tv
+.funtouchos.com
 .fusion.design
 .fusionappl.com
 .futu5.com
@@ -2427,8 +2437,10 @@
 .gd12349.com.cn
 .gd165.com
 .gdb.com.cn
+.gdbbk.com
 .gdbnet.cn
 .gddc.com.cn
+.gdfgq.club
 .gdi5ap2ikn.com
 .gdsa.com
 .gdtel.com.cn
@@ -3400,6 +3412,7 @@
 .iq.com
 .iqiyi.com
 .iqiyipic.com
+.iqoo.com
 .iqtianshanmw.com
 .ireader.com
 .ireader.com.cn
@@ -3578,6 +3591,8 @@
 .jhwan.com.cn
 .jiajuimg.com
 .jiangbing.cn
+.jianguopuzi.com
+.jianguoyun.com
 .jianhangcaifu.com
 .jianliao.com
 .jianshu.com
@@ -3657,6 +3672,8 @@
 .jtamac.com
 .jtwsm.cn
 .juangua.com
+.juchang.cn
+.juchang.com.cn
 .juejin.cn
 .juejin.im
 .juhuasuan.com
@@ -3816,6 +3833,13 @@
 .ksyunwaf.com
 .ktovztie.com
 .ktv.com
+.ku6.cn
+.ku6.com
+.ku6.com.cn
+.ku6.net
+.ku6cdn.com
+.ku6img.com
+.ku6vms.com
 .kuai666aa8e43gomqhzeg.com
 .kuai666e9rqs5wumk7at3.com
 .kuai666gki3osg54rx7a.com
@@ -4512,6 +4536,8 @@
 .ntes53.net
 .ntescdn.com
 .nuomi.com
+.nutstore.net
+.nutstorehq.com
 .nvidia.com
 .nvsgames.cn
 .nvsip.com
@@ -4719,6 +4745,7 @@
 .papocket.com
 .passivedns.cn
 .passthepopcorn.me
+.paypal-mktg.com
 .paypal.me
 .pc120.com
 .pddpic.com
@@ -5425,6 +5452,7 @@
 .snqrc.cn
 .snrent.cn
 .snsroot.cn
+.snssdk.com
 .snwx.com
 .so-quick.cn
 .so.com
@@ -5506,14 +5534,7 @@
 .static163.net
 .staticdn.net
 .staticfile.org
-.steam-chat.com
 .steamcdn-a.akamaihd.net
-.steamcontent.com
-.steamgames.com
-.steampowered.com
-.steamstat.us
-.steamstatic.com
-.steamusercontent.com
 .stfile.com
 .stmjsociety.com
 .store-cdn.huami.com
@@ -6036,11 +6057,19 @@
 .vitamio.net
 .vitamio.org
 .vitamio.tv
+.vivo.cn
+.vivo.com
+.vivo.com.cn
+.vivo.xyz
+.vivoglobal.com
+.vivosjpt.com
+.vivotc.com
 .vk6oqcevmd1a.com
 .vkrtzzc.com
 .vmall-hw.com
 .vmall.com
 .vmallres.com
+.vmic.xyz
 .vmoso.cn
 .vmylan.com
 .vnet.cn
@@ -6055,6 +6084,7 @@
 .vplayer.net
 .vqskrzmq.com
 .vrbt.mobi
+.vsearch.club
 .vshabo.com
 .vshoucang.com
 .vsmquvds.com
@@ -6133,6 +6163,7 @@
 .weidian.cn
 .weidian.com
 .weidianfans.com
+.weiguan.com
 .weikan.cn
 .weimen.hu
 .weinews.cn
@@ -7051,7 +7082,8 @@ moo.qq.com
 mtalk.google.com
 netease.ugcvideoss.ourdvs.com
 officecdn-microsoft-com.akamaized.net
+origin-a.akamaihd.ne
+origin-a.akamaihd.net
 safebrowsing.googleapis.com
 sms.imagetasks.com
-steamcommunity-a.akamaihd.net
 weizhiyundong.list
